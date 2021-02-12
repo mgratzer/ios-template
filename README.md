@@ -3,7 +3,7 @@
 This is a template repostiory for iOS projects with the following setup:
 
 - `.gitignore` for Swift and Xcode
-- `Gemfile` for [fastlan](https://fastlane.tools) and console building
+- `Gemfile` for [fastlane](https://fastlane.tools) and console building
 - setup script to install all dependencies
 - [Swiftgen](https://github.com/SwiftGen/SwiftGen) for code generation (e.G. localizable strings)
 - [Swiftformat](https://github.com/nicklockwood/SwiftFormat) and [Swiftlint](https://github.com/realm/SwiftLint) rules
