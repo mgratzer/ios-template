@@ -1,0 +1,20 @@
+disabled_rules:
+  - line_length
+  - type_body_length
+  - file_length
+  - legacy_constructor
+  - cyclomatic_complexity
+  - legacy_cggeometry_functions
+  - function_parameter_count
+  - identifier_name
+  - closure_parameter_position
+  - operator_whitespace
+# excluded:
+#   - {APP_NAME}/Shared/Resources/Assets.swift
+#   - {APP_NAME}/Shared/Resources/Localizable/Localizable.swift
+function_body_length:
+  - 200
+  - 300
+identifier_name:
+  min_length:
+    warning: 2

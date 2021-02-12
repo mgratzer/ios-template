@@ -1,0 +1,9 @@
+--allman false
+--indent tab
+--guardelse same-line
+--header "{file}\nCopyright (c) {year} topmind GmbH. All rights reserved.\n"
+
+--enable elseOnSameLine
+--disable trailingCommas,organizeDeclarations,wrapMultilineStatementBraces
+#--exclude {APP_NAME}/Shared/Resources/Assets.swift,{APP_NAME}/Shared/Resources/Localizable/Localizable.swift
+--stripunusedargs closure-only

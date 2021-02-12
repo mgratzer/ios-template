@@ -1,0 +1,16 @@
+# strings:
+#   inputs: app/Shared/Resources/Localizable/Base.lproj
+#   outputs:
+#     - templateName: structured-swift5
+#       output: app/Shared/Resources/Localizable/Localizable.swift
+# xcassets:
+#  inputs:
+#    - app/Shared/Resources/Assets.xcassets
+#  outputs:
+#    - templateName: swift5
+#      output: app/Shared/Resources/Assets.swift
+# fonts:
+#   inputs: app/Shared/Resources/Fonts
+#   outputs:
+#     templateName: swift5
+#     output: app/sShared/Resources/Fonts.swift
